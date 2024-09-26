@@ -1,0 +1,57 @@
+.header-middle {
+    height: 50px;
+    background-color: #C4C4C4;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.header-right {
+    position: absolute;
+    top : 10px;
+    left: 1093px;
+    display: flex;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.header-right img {
+    margin-left: 15px;
+    margin-right: 0;
+}
+
+.header-right div {
+    margin-left: 21px;
+    display: flex;
+}
+
+.header-right div h3 {
+    margin-left: 4px;
+}
+
+.menu {
+    font-family: 'Modern No. 20', serif;
+    font-weight: 400;
+}
+
+.menu h1 {
+    font-size: 48px;
+    margin-top: 21px;
+    text-align: center;
+}
+
+ul {
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    gap: 89px;
+    margin-top: 19px;
+}

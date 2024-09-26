@@ -1,0 +1,31 @@
+.light-layers {
+    margin-top: 68px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.light-layers div {
+    display: flex;
+    justify-content: center;
+    column-gap: 192px;
+}
+
+.light-layers-desc {
+    width: 260px;
+    flex-direction: column;
+    align-self: flex-end;
+}
+
+.light-layers div img {
+    width: 781px;
+    height: 656px;
+}
+
+.light-layers-desc h1 {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.light-layers-desc p {
+    font-size: 12px;
+    font-weight: 400;
+}

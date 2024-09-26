@@ -1,0 +1,38 @@
+.new-arrival {
+    margin-top: 47px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.new-arrival h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.new-arrival div {
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+}
+
+.product{
+    margin-top: 74px;
+    flex-direction: column;
+}
+
+.product img {
+    width: 365px;
+    height: 496px;
+}
+
+.product-avail {
+    margin-top: 16px;
+    margin-left: 40px;
+    font-size: 12px;
+}
+
+.product-name {
+    margin-top: 4px;
+    margin-left: 40px;
+    font-size: 14px;
+}

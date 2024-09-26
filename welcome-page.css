@@ -1,0 +1,32 @@
+.welcome-page {
+    margin-top: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Modern No. 20', serif;
+}
+
+.welcome-page .title {
+    font-size: 36px;
+    margin-top: 26px;
+    text-align: center;
+}
+
+.welcome-page p {
+    font-size: 18px;
+    margin-top: 13px;
+    width: 471px;
+    text-align: center;
+}
+
+.button-shop {
+    margin-top: 32px;
+    width: 224px;
+    height: 57px;
+    border-style: solid;
+    background-color: white;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
